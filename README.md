@@ -8,3 +8,4 @@ Este es un programa para calcular:
 5. Factorial de N:
 
 Todos los algoritmos para calcular cada objetivo que nos pide son con algoritmos recursivos 
+Con interfaz grafica de java
